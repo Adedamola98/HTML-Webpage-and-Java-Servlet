@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>New Goke Alade Farms Ltd</title>
+</head>
+<body>
+
+<h1><Big> <Strong> Goke Alade Farms Limited </Strong> </Big></h1>  <br>   
+
+
+<img src ="Farmitself.jpg">
+
+<br>  <br>
+
+<Big>Goke Alade Farms Limited was established in 1980. It is a limited liability company </Big>.<br>
+
+<Big>The business was setup with the determination to serve the growing needs of shortage of agricultural </Big> <br>
+
+<Big>raw materials and food in various communities and the country as a whole.</Big> <br>
+
+<h1>Location</h1>
+
+<Big> The farm is located in Irawo-Ile, Oyo State, Nigeria. The farm sits on 500-hectares of land. We have our own <br>
+dam which generates water for irrigation purposes.</Big>
+
+<h1>Mode of Operation</h1>
+
+<Big>The farm has about 250 employees. During the planting seasons, there are about  4 tractors in operation for mowing, harrowing and planting. <br>
+
+
+<h1>Products </h1> 
+
+  <table cellspacing="10" cellpadding="10" >
+    <tr>
+        <td> <Big> <strong>Grains:</strong> </Big> </ol></td>
+        <td> <Big>This includes maize, soyabeans and Millet.<br> The grain products are sold and delivered and exported to our customers in Kilograms </Big></td>
+        <td> <img src="maize2.jpg"></td>
+        <td> <img src="Soyabeans.jpg"></td>
+    </tr>
+
+ <tr>
+        <td> <Big> <strong>Vegetables:</strong></Big></td>
+        <td>  <Big>This includes Tomatoes, various variants of Pepper and Spinach.<br> Vegetables products are sold and delivered  adn exported to our customers in Kilograms </Big> </td>
+        <td> <img src="Vegetables.jpg"></td>
+     
+    </tr>
+
+ <tr>
+        <td> <Big> <strong>Dairy:</strong> </Big></td>
+        <td> <Big>This includes milk and cheeese.<br> Our dairy products are currently sold locally in litres.</Big></td>
+        <td> <img src="Dairy.jpg"></td>
+     
+    </tr>
+
+
+   </table>
+
+<h1>Quality</h1>
+
+<Big>The quality of our products are of international standard and can be compared to any other products in the world.<br>
+
+We are ready to meet any specifications of products desired by our customers. <br>
+
+
+We are available to discuss with you on any of our products that may be of interest to you.<br>
+
+Please feel free to contact us by calling our number  You can also call us on xxx xxx xxx. <br> <br>
+
+<strong>We are happy to contact you if you have any queries. Please fill out the form below.</strong> </Big>  
+
+<br>  <br>
+
+    
+<form action="NewGokeAladeFarmsLtd" method="POST">
+  <table width ="500" cellpadding="5" cellspacing="0">
+    <tr>
+      <td>Name</td>
+      <td><input type="text" name="name" ></td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td><input type="text" name="email"></td>
+    </tr>
+    <tr>
+      <td>Phone No</td>
+      <td><input type="text" name="phoneContact" value="Pls Incld Ctry Code"></td>
+    </tr> 
+    <tr>
+      <td>Product of Interest</td>
+      <td><select name="productOfInterest">
+            <option>Grains</option>
+            <option>Dairy</option>
+            <option>Vegetables</option>
+          </select>
+       </td>
+     </tr>
+            
+    <tr>
+      <td>Other Comments</td>
+      <td><textarea row="100" columns="300" wrap="hard" name="otherComments"></textarea>
+      </td>
+     
+   </tr>   
+
+   <tr>
+     <td> </td>
+    <td>
+    <input type="submit" value="Submit Request">
+     </td>
+    </tr>
+    </table>
+ </form>
+</body>
+</html>
